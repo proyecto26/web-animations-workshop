@@ -7,18 +7,29 @@
   - Additive animation: https://css-tricks.com/additive-animation-web-animations-api/
 - Easing Functions: https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function
   - Browse: https://easings.net
+- Examples:
+  - The illusion of life => https://codepen.io/jeroens/post/the-illusion-of-life
+    - Disney: https://www.youtube.com/watch?v=a6Ts93tsTZU
+  - Squash and Stretch (CSS) => https://codepen.io/bigsweater/pen/YWopYR
+  - Animation Principles for the Web => https://codepen.io/collection/AxKOdY/
+  - Animations Feel More Natural => https://css-tricks.com/making-css-animations-feel-natural/
+  - Background position for sprites => https://codepen.io/rachelnabors/pen/zxYexJ/
+  - Parallax => https://codepen.io/rachelnabors/pen/AvGhp
+  - Game => https://codepen.io/rachelnabors/details/PNYGZQ
+  - Spinners => https://codepen.io/rachelnabors/pen/pefly?editors=0110
+  - Scroll Effects => https://codepen.io/rachelnabors/pen/NgyjZm?editors=1010
 
 ### Web Components
 - Support: https://custom-elements-everywhere.com/
 - Stencil: https://stenciljs.com/
 
-## Web Animations API
+## Web Animations API (WAAPI)
 
 1. Create or Extract Key Frames from:
 - https://cssanimate.com/
 - https://animista.net/
 - http://bouncejs.com/
-- Convert CSS Keyframes to JS: https://github.com/gibbok/keyframes-tool
+- Tool to convert CSS Keyframes to JS: https://github.com/gibbok/keyframes-tool
 
 2. Debug the keyFrames here: https://codepen.io/jdnichollsc/pen/OJVWyQm
 
@@ -31,3 +42,10 @@
 3. Define and Export the keyFrames
 
 4. Debug by running the command `npm start`
+
+
+## Nice to Try
+
+- GSAP => https://greensock.com/waapi/
+- Effects => http://danielcwilson.com/blog/2015/09/animations-part-4/
+- Motion Paths => https://codepen.io/collection/AQWaem/
