@@ -31,7 +31,7 @@
 - http://bouncejs.com/
 - Tool to convert CSS Keyframes to JS: https://github.com/gibbok/keyframes-tool
 
-2. Debug the keyFrames here: https://codepen.io/jdnichollsc/pen/OJVWyQm
+2. Debug the keyFrames here: https://codepen.io/jdnichollsc/pen/MWwpGNW?editors=0010
 
 ## Web Components
 
