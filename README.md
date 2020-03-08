@@ -29,6 +29,7 @@
 - https://cssanimate.com/
 - https://animista.net/
 - http://bouncejs.com/
+- https://angrytools.com/css/animation/
 - Tool to convert CSS Keyframes to JS: https://github.com/gibbok/keyframes-tool
 
 2. Debug the keyFrames here: https://codepen.io/jdnichollsc/pen/MWwpGNW?editors=0010
